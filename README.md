@@ -1,5 +1,7 @@
 # [Discord RSS Bot](https://github.com/freiheit/discord_rss_bot)
 
+This repo is no longer managed, look to https://github.com/freiheit/discord_rss_bot for the more updated version with whitelist features and regular maintainance.
+
 ![Feed Bot](avatar-angry-small.png)
 
 Bot for taking in an RSS or Atom feed and sharing it into a Discord channel.
